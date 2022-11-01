@@ -1,0 +1,11 @@
+C:\Users\student>pip install numpy
+
+C:\Users\student>pip install pomegranate
+
+C:\Users\student>pip install watermark
+
+C:\Users\student>pip install pandas
+
+C:\Users\student>pip install networkx
+
+C:\Users\student>pip install matplotlib
